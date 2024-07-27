@@ -1,0 +1,16 @@
+@import url('./normalize.css');
+
+/* Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --white: rgb(188, 188, 188);
+    --bg: rgb(35, 35, 35);
+}
+
+body {
+    background: linear-gradient(to bottom, #382125, #000d18);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    height: 100dvh;
+}
