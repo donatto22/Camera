@@ -9,16 +9,17 @@
     "clean": "farm clean"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.5",
+    "@mui/styled-engine-sc": "6.0.0-alpha.18",
     "feather-icons": "^4.29.2",
-    "framer-motion": "^11.3.18",
     "prop-types": "^15.8.1",
     "react": "18",
     "react-device-detect": "^2.2.3",
     "react-dom": "18",
-    "react-webcam": "^7.2.0"
+    "react-webcam": "^7.2.0",
+    "styled-components": "^6.1.12"
   },
   "devDependencies": {
     "@farmfe/cli": "^1.0.2",
